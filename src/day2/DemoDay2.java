@@ -21,5 +21,10 @@ public class DemoDay2 {
 	public static void divide(int a, int b){
 		Sysout.out.print(a/b);
 	}
+
+	//ADD METHOD
+	public static void add (int a, int b) {
+		System.out.println(a+ b);
+	}
 	
 }
