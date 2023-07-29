@@ -19,7 +19,7 @@ public class DemoDay2 {
 
 	//YASIR
 	public static void divide(int a, int b){
-		Sysout.out.print(a/b);
+		System.out.print(a/b);
 	}
 
 	//ADD METHOD
