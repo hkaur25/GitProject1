@@ -5,4 +5,8 @@ public class DemoDay5 {
 		System.out.println("It's mostly Sunny with 89F");
 	}
 
+	public void getData(){
+		System.out.println("the temperature");
+	}
+
 }
